@@ -9,7 +9,7 @@ var myVar=5;
 myVar++;  //increment by 1
 console.log(myVar);
 
-// Same can be done for +,×,/ use repective symbols do to do so
+// Same can be done for +,×,/ use respective symbols do to do so
 
 
 // To fine reminder % is use

@@ -1,21 +1,21 @@
 // 5- working with Arrays
 // can use to store multiple type of data in it 
 
-// [ ]- use to create array and elements in it separated by , u can store mupltie data types in same array 
+// [ ]- use to create array and elements in it separated by , u can store multiple data types in same array 
 var array=["My age is", 25];
 console.log(array);
 
 //Nest Array:
 
-// when an array store arrays in it then its called mulit dimensional array or nested array 
-var nestedArray=[["Hi", 123],[0.1,"this is nasted array"]];
+// when an array store arrays in it then its called multi dimensional array or nested array 
+var nestedArray=[["Hi", 123],[0.1,"this is nested array"]];
 console.log(nestedArray);
 
 
-///acessing array data with indexing 
+///accessing array data with indexing 
 
 var myArray=[50,12,51];
-var n2Element=myArray[1]; //retriving 2nd element for the array 
+var n2Element=myArray[1]; //retrieving 2nd element for the array 
 console.log(n2Element);
 
 
@@ -49,7 +49,7 @@ console.log(myArray)
 //push element add new data in end of the existing array
 
 
-///Maniulating Arrays removing items from array pop()
+///Manipulating Arrays removing items from array pop()
 var myArray=[50,12,51];
 var removeElement=myArray.pop(); //it will remove last element of array for myArray
 
@@ -74,5 +74,5 @@ myArray.unshift("hello");
 console.log(myArray);
 
 
-var myList=[["apple",5],["milk",2],['banana',5]];
+var myList=[["apple",5],["milk",2],['banana',5]]
 console.log(myList);
