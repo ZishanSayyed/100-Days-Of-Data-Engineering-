@@ -5,7 +5,7 @@ Null: noting
 Boolean: true/ false 
 String: character type variables
 Symbol: immutable permitted value which is unique 
-Number: Nume=ber 
+Number: Number 
 Object:key-value pairs 
 
 */
@@ -27,18 +27,18 @@ console.log(piValue);
 //const creates "constant" variables that cannot be reassigned another value.
 
 
-var a;   //we use var to declare variable  //before any assinged to this variable is  fall under  data type undefine
+var a;   //we use var to declare variable  //before any assigned to this variable is  fall under  data type undefine
 
-a=7 // here we use = to assing values to our variable 
+a=7 // here we use = to assign values to our variable 
 
-var b=5; // we can do both simultaneously ; is use to show end of the line is not menditory but best practices 
+var b=5; // we can do both simultaneously ; is use to show end of the line is not monitory but best practices 
 
 console.log(a);  //is like a print fun to see output
 
 /* Java script is case-sensitive */
 
 
-/* Camel Case is writting style type use for better writing style of your code */
+/* Camel Case is writing style type use for better writing style of your code */
 
 var myname="zishan" //normal style 
 var myName="zishan" // camel case

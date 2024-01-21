@@ -5,7 +5,7 @@
 // Escaping quote chart we Use \ \
 
 
-'this is "double quoted"  stirng'
+'this is "double quoted"  string'
 
 
 // concatenating string
