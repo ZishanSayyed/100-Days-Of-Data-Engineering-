@@ -71,7 +71,7 @@ function trySwitch(val){
 console.log(trySwitch(5))
 
 
-/* make switch statment for the given condtion 
+/* make switch statement for the given condtion 
 
 1,2,3 = low 
 4,5,6 =mid
