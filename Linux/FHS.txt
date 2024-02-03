@@ -1,0 +1,17 @@
+Filesystem Hierarchy Standard (FHS)
+
+| Path      | Description                                                   | Example Files                                   |
+|-----------|---------------------------------------------------------------|-------------------------------------------------|
+| /         | Primary hierarchy root and root directory of
+            | the entire file system hierarchy.                             |
+| /home     | Home directory for other users.                               | -                                               |
+| /root     | Home directory for the root user.                             | -                                               |
+| /boot     | Contains bootable files for Linux.                            | Boot loader files, e.g., kernels, initrd.      |
+| /etc      | Contains configuration files required by all programs.        | -                                               |
+| /usr      | Default directory where software is installed.                | -                                               |
+| /bin      | Essential command binaries for all users.                     | e.g., cat, ls, cp                              |
+| /sbin     | Essential command binaries for root users.                    | -                                               |
+| /opt      | Optional application software packages.                       | -                                               |
+| /dev      | Essential device files.                                       | -                                               |
+| /lib      | Libraries essential for binaries in /bin/ and /sbin/.         | -                                               |
+

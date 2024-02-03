@@ -1,0 +1,9 @@
+| Command | Description                      | Options                                     | Examples |
+|---------|----------------------------------|---------------------------------------------|----------|
+| ls      | List files and directories.      | -l: Long format listing. <br> -a: Include hidden files. <br> -h: Human-readable file sizes. | - `ls -l`: Displays detailed information about files and directories. <br> - `ls -a`: Shows all files and directories, including hidden ones. <br> - `ls -lh`: Displays file sizes in a human-readable format. |
+| cd      | Change directory.                | -                                           | - `cd /path/to/directory`: Changes the current directory to the specified path. |
+| pwd     | Print current working directory. | -                                           | - `pwd`: Displays the current working directory. |
+| mkdir   | Create a new directory.          | -                                           | - `mkdir my_directory`: Creates a new directory named "my_directory". |
+| rm      | Remove files and directories.    | -r: Remove directories recursively. <br> -f: Force removal without confirmation. | - `rm file.txt`: Deletes the file named "file.txt". <br> - `rm -r my_directory`: Deletes the directory "my_directory" and its contents. <br> - `rm -f file.txt`: Forcefully deletes the file "file.txt" without confirmation. |
+| cp      | Copy files and directories.      | -r: Copy directories recursively.          | - `cp -r directory destination`: Copies the directory "directory" and its contents to the specified destination. <br> - `cp file.txt destination`: Copies the file "file.txt" to the specified destination. |
+| mv      | Move/rename files and directories| -                                          | - `mv file.txt new_name.txt`: Renames the file "file.txt" to "new_name.txt". <br> - `mv file.txt directory`: Moves the file "file.txt" to the specified directory. |
