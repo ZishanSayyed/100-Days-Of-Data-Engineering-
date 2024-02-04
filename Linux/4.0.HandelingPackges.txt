@@ -1,0 +1,4 @@
+| ---------- | ------------------------------------------------------------ | ---- | ------------------------------------------- |
+| yum remove | Remove packages and their dependencies from the system.      | None | yum remove package_name: Removes a package. |
+| yum update | Update installed packages to their latest available version. | None | yum update: Updates all installed packages  |
+| yum list   | lsit of all packages                                         | None | None                                        |

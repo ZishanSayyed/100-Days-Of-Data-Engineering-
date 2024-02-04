@@ -1,0 +1,9 @@
+| Command  | Description                                        | Options                               | Examples                                                                                             |
+| -------- | -------------------------------------------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| hostname | Print or set the system's host name.               | -f: Full qualified domain name        | hostname: Displays current hostname. <br> hostname -f: Displays full qualified domain name.          |
+| ifconfig | Display or configure network interface parameters. | -a: Display all interfaces            | ifconfig: Displays network interface details. <br> ifconfig -a: Displays details for all interfaces. |
+| which    | Locate a command and display its pathname.         | None                                  | which command: Displays the path of the specified command.                                           |
+| whoami   | Print the current user's name.                     | None                                  | whoami: Displays the current user's username.                                                        |
+| echo     | Display a line of text/string.                     | -n: Suppress trailing newline         | echo "Hello, world!": Prints "Hello, world!" to the console.                                         |
+| grep     | Search for patterns in files or input.             | -i: Ignore case <br> -v: Invert match | grep pattern file.txt: Searches for "pattern" in "file.txt".                                         |
+|          |                                                    |                                       |                                                                                                      |
