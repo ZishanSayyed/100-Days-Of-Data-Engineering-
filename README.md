@@ -19,3 +19,24 @@ Facebook :[datasci_cheatsheet](https://www.facebook.com/DsciCheatsheet)
 
 
 __Note: The original roadmap and video by Seattle Data Guy serve as inspiration for this challenge. Credit goes to him for the initial framework.__
+
+## Check Out My Notes:
+
+| Topics:                   | github                                                                             |
+|---------------------------|------------------------------------------------------------------------------------|
+| Java                      | https://github.com/ZishanSayyed/100-Days-Of-Data-Engineering-/tree/main/JavaScript |
+| SQL                       | https://github.com/ZishanSayyed/100-Days-Of-Data-Engineering-/tree/main/Sql        |
+| Linux                     | https://github.com/ZishanSayyed/100-Days-Of-Data-Engineering-/tree/main/Linux      |
+| Data Modeling             | WIP                                                                                |
+| Data Pipeline             | WIP                                                                                |
+| Programming               | WIP                                                                                |
+| Cloud                     | WIP                                                                                |
+| Data Warehousing          | WIP                                                                                |
+| Spark                     | WIP                                                                                |
+| Docker                    | WIP                                                                                |
+| Airflow                   | WIP                                                                                |
+| Databricks                | WIP                                                                                |
+| Trino/Presto              | WIP                                                                                |
+| Data Governance           | WIP                                                                                |
+| Data Catalogs And Lineage | WIP                                                                                |
+| Data Quality              | WIP                                                                                |
