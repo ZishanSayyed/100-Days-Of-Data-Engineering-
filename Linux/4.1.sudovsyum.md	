@@ -1,7 +1,8 @@
 | Feature                                                                          | sudo apt (Debian-based)                                   | yum (Red Hat-based)                                        |
+|----------------------------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------|
 | Command Usage                                                                    | Commands include apt, apt-get, apt-cache, etc.            | Commands include yum.                                      |
 | Administrative Usage                                                             | Commands are typically used with sudo.                    | Commands are typically used with sudo.                     |
-| Update Package                                                                   | Lists	sudo apt update: Updates the package lists.         | sudo yum update: Updates the installed packages.           |
+| Update Package                                                                   | Lists	sudo apt update: Updates the package lists.        | sudo yum update: Updates the installed packages.           |
 | Install Package                                                                  | sudo apt install package_name: Installs a package.        | sudo yum install package_name: Installs a package.         |
 | Remove Package                                                                   | sudo apt remove package_name: Removes a package.          | sudo yum remove package_name: Removes a package.           |
 | Search Package                                                                   | apt search keyword: Searches for a package.               | yum search keyword: Searches for a package.                |

@@ -1,0 +1,5 @@
+| chmod | Change file mode bits (permissions) of a file or directory. | -R: Recursively change permissions <br> +x: Add execute permission | chmod 755 file.txt: Sets permissions of "file.txt".               |
+|-------|-------------------------------------------------------------|--------------------------------------------------------------------|-------------------------------------------------------------------|
+| chown | Change file owner and group.                                | -R: Recursively change ownership                                   | chown user:group file.txt: Changes owner and group of "file.txt". |
+|-------|-------------------------------------------------------------|--------------------------------------------------------------------|-------------------------------------------------------------------|
+| chgrp | Change group ownership of a file or directory.              | -R: Recursively change group ownership                             | chgrp groupname file.txt: Changes group ownership of "file.txt".  |

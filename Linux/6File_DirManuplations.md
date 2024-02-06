@@ -1,0 +1,4 @@
+| tar  | Manipulate archive files.         | -x: Extract <br> -c: Create <br> -v: Verbose     | tar -cvf archive.tar file1 file2: Creates a tar archive |
+|------|-----------------------------------|--------------------------------------------------|---------------------------------------------------------|
+| gzip | Compress or expand files.         | -d: Decompress <br> -c: Write to standard output | gzip file.txt: Compresses "file.txt".                   |
+| wget | Download files from the internet. | -O: Save to a specified file                     | wget URL: Downloads file from URL.                      |
