@@ -27,7 +27,7 @@ __Note: The original roadmap and video by Seattle Data Guy serve as inspiration 
 | Java                      | https://github.com/ZishanSayyed/100-Days-Of-Data-Engineering-/tree/main/JavaScript |
 | SQL                       | https://github.com/ZishanSayyed/100-Days-Of-Data-Engineering-/tree/main/Sql        |
 | Linux                     | https://github.com/ZishanSayyed/100-Days-Of-Data-Engineering-/tree/main/Linux      |
-| Data Modeling             | WIP                                                                                |
+| Data Modeling             |https://github.com/ZishanSayyed/100-Days-Of-Data-Engineering-/blob/main/Data-Modeling/0.DataModelingResources.md|                                                                               |
 | Data Pipeline             | WIP                                                                                |
 | Programming               | WIP                                                                                |
 | Cloud                     | WIP                                                                                |
