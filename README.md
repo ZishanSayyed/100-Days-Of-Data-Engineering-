@@ -22,18 +22,18 @@ __Note: The original roadmap and video by Seattle Data Guy serve as inspiration 
 
 ## Check Out My Notes:
 
-| Topics:                   | github                                                                             |
+| Topics:                   | Github                                                                             |
 |---------------------------|------------------------------------------------------------------------------------|
-| Java                      | https://github.com/ZishanSayyed/100-Days-Of-Data-Engineering-/tree/main/JavaScript |
-| SQL                       | https://github.com/ZishanSayyed/100-Days-Of-Data-Engineering-/tree/main/Sql        |
-| Linux                     | https://github.com/ZishanSayyed/100-Days-Of-Data-Engineering-/tree/main/Linux      |
-| Data Modeling             |https://github.com/ZishanSayyed/100-Days-Of-Data-Engineering-/blob/main/Data-Modeling/0.DataModelingResources.md|                                                                               |
+| JavaScript                | [JavaScript](https://github.com/ZishanSayyed/100-Days-Of-Data-Engineering-/tree/main/JavaScript) |
+| SQL                       | [SQL](https://github.com/ZishanSayyed/100-Days-Of-Data-Engineering-/tree/main/Sql)        |
+| Linux                     | [Linux](https://github.com/ZishanSayyed/100-Days-Of-Data-Engineering-/tree/main/Linux)      |
+| Data Modeling             |[Data Modeling](https://github.com/ZishanSayyed/100-Days-Of-Data-Engineering-/blob/main/Data-Modeling/0.DataModelingResources.md)|                                                                               |
 | Data Pipeline             | WIP                                                                                |
 | Programming               | WIP                                                                                |
 | Cloud                     | WIP                                                                                |
 | Data Warehousing          | WIP                                                                                |
 | Spark                     | WIP                                                                                |
-| Docker                    | WIP                                                                                |
+| Docker                    |[ Docker ](https://github.com/ZishanSayyed/100-Days-Of-Data-Engineering-/tree/main/getstartwithDocker)                                                                              |
 | Airflow                   | WIP                                                                                |
 | Databricks                | WIP                                                                                |
 | Trino/Presto              | WIP                                                                                |
